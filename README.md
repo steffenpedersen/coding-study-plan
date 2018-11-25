@@ -1,2 +1,1 @@
-# coding-study-plan
-WIP
+# Coding Study Plan
