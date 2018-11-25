@@ -1,5 +1,5 @@
-# Coding Study Plan
-
-<p align="center">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/steffenpedersen/coding-study-plan/master/emoji.png" width="300px">
-</p>
+  <br><br>
+  Coding Study Plan
+</h1>
